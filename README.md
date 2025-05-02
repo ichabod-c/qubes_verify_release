@@ -76,14 +76,3 @@ Ideal for CI/CD pipelines: trust is set automatically.
 * **Keyserver**: The script uses `gpg2 --fetch-keys` from the official Qubes URL.
 * **Isolation**: Uses a temporary GNUPGHOME to avoid contaminating your local keyring.
 
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Create a feature/fix branch
-2. Write clear, descriptive commits
-3. Update documentation as needed
-
-## License
-
-MIT License © \[Your Name]
