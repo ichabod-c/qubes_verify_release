@@ -19,21 +19,6 @@ It supports both interactive (default) and non-interactive (CI/CD) modes, color-
 * `gpg2` (GnuPG 2.x)
 * Internet access for key retrieval (unless using a local RSK file)
 
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/<your-account>/qubes-verify-script.git
-   cd qubes-verify-script
-   ```
-
-2. Make the script executable:
-
-   ```bash
-   chmod +x qubes_verify_release.sh
-   ```
-
 ## Usage
 
 ```bash
